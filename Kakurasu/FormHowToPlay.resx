@@ -117,11 +117,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Kakurasu_32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Kakurasu_32.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Kakurasu_Screen_021" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Kakurasu_Screen_022.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="label1.Text" xml:space="preserve">
+    <value>1. You select which cell you would like it to be a black cell.
+2. The goal is to make the sum of the weight of the black cell 
+	to mach the sum value of the Row/Column.
+3. There are numbers represent the weight of the cell (The blue one)
+	at the top and the left side of the board.
+	On the picture They are 1, 2, 3, 4, 5
+   There are numbes represent the correct sum of the weight of the cell(The orange one)
+    at the right and the bottom side of the board.
+    On the picture they are 10, 6, 10, 10, 11 for the row
+	9, 13, 8, 12, 8 for the column
+4. On the picture, the first row is correct
+	because there are 3 black cells on the first row
+	The summary of the 3 black cells on the first row is 10(2 + 3 + 5)
+	
+5. On the picture, the first column is correct
+	because there are 3 black cells on the first column
+	The summary of the 3 black cells on the first column is 9(2 + 3 + 4)
+
+6. You continue select the value until the sum of all of Row/Column is correct.	</value>
   </data>
 </root>
