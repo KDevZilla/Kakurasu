@@ -1,9 +1,9 @@
-# kakurasu
+# Kakurasu
 It is a puzzle game like Sudoku but more simple.
 
 
 
-![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/Kakurasu_Screen_01.png)
+![Image Image](https://raw.githubusercontent.com/KDevZilla/ImageUpload/main/Kakurasu/2024_02_05_00_54_46_Kakurasu.png)  
 
 # How to play
 ![Image Image](https://raw.githubusercontent.com/KDevZilla/Resource/main/Kakurasu_Screen_02.png)
